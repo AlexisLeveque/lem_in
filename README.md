@@ -17,3 +17,6 @@ la fois (sauf (##)start et (##)end qui peuvent en contenir autant qu’il faut).
 tube (la salle réceptrice doit être libre).<br/><br/>
 
 https://cdn.intra.42.fr/pdf/pdf/185/lem-in.fr.pdf
+
+## Usage
+`lem-in < [file]`
